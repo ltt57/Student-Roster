@@ -27,7 +27,7 @@ int main()
         cout << "Course: C867 - Scripting and Programming Application" << endl;
         cout << "Programming Language: C++" << endl;
         cout << "Name: Lucy Tran" << endl;
-        cout << "StudentID: 001360516" << endl << endl << endl;
+        cout << "StudentID: XXXXXXXX" << endl << endl << endl;
      
         Roster* classRoster = new Roster(numStudents);
         
